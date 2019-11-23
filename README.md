@@ -2,6 +2,8 @@
 
 [View Russian version of this file here](README-ru.md)
 
+<img src="gopher.png" alt="Logo" width="300" height="260" />
+
 Gonkey will test your services using their API. It can bomb the service with prepared requests and check the responses. Test scenarios are described in YAML-files.
 
 Capabilities:
